@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Minimalistic Money Manager</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="admobID">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admobBannerID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admobInterstitialID">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="type">TYPE:</string>
+    <string name="note">NOTE:</string>
+    <string name="amount">AMOUNT:</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="test_text">Test text</string>
+    <string name="test_note">Test note</string>
+    <string name="test_date">6 June 2018</string>
+    <string name="test_income">6000</string>
+    <string name="total_income">Total Income</string>
+    <string name="test_expense">4000</string>
+    <string name="total_expense">Total Expense</string>
+    <string name="income">Income:</string>
+    <string name="expense">Expense:</string>
+    <string name="expense_button">Expense</string>
+    <string name="income_button">Income</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add">ADD</string>
+    <string name="enter_email">Enter Email:</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="registration">Registration</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="already_have_account_sign_in_here">Already have account? Sign in here.</string>
+    <string name="please_check_your_internet_connection_and_reload_the_application">Please, check your Internet Connection and reload the application</string>
+
+</resources>

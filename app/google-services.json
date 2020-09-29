@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "734507274264",
+    "firebase_url": "https://money-minimalistic.firebaseio.com",
+    "project_id": "money-minimalistic",
+    "storage_bucket": "money-minimalistic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734507274264:android:e0e8869d3092227c7b336d",
+        "android_client_info": {
+          "package_name": "com.bogdanlonchuk.minimalisticmoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734507274264-8uuc3llnjuo578qb17aaq9al0o3q98s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bogdanlonchuk.minimalisticmoney",
+            "certificate_hash": "f765c753832e04d8c0e2ea32f206ce6e85c24121"
+          }
+        },
+        {
+          "client_id": "734507274264-qlb7sjpnaskab1isuf9ljctt3416rn3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvJ3M9l3pfBhVcqxvpWZ69wCu74n9FSNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734507274264-qlb7sjpnaskab1isuf9ljctt3416rn3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
