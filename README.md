@@ -7,7 +7,5 @@ Minimalistic Money Manager is a Fully Developed Android application with AdMob a
   Also, this application has an Internet Checking Function, because it will work only with an Internet Connection enabled (it will produce more money for you from Ads).
 
   Moreover, Minimalistic Money Manager has RateUsWindow, which will encourage users to rate your app on the Google Play Store.
-
-  Thank you for your attention. If you have any questions, please, be free to ask them in Comments section.
   
   <a title="Demo APK" href="https://drive.google.com/file/d/1-fbGpKzbXmpc3iXJ_E5iGBfFaaNNzWm6/view?usp=sharing" target="_blank" rel="noopener">Demo APK</a>
